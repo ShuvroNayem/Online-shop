@@ -68,8 +68,12 @@ body {
     text-align: center;
     color: #fff;
     padding: 50px 0;
+
 }
 
+.banner span{
+    color:#1c2833;
+}
 .banner h1 {
     font-size: 2.5rem;
 }
